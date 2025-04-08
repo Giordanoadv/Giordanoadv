@@ -1,5 +1,4 @@
-
-Hi there, Giordano Bruno here,
+### Hi there, Giordano Bruno here,
 <br>
 ⚖️ Licensed Attorney (OAB) → Transitioning to Tech
 💻 Building a future in code | Python | JavaScript | Web Dev
@@ -12,7 +11,7 @@ Former lawyer leveraging analytical rigor and problem-solving skills to pivot in
 Let’s connect! Open to collaborations, mentorship, and innovative ideas. :metal:
 <br>
 <br>
-###Tecnology Stacks
+### Tecnology Stacks 
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 
@@ -22,9 +21,10 @@ Let’s connect! Open to collaborations, mentorship, and innovative ideas. :meta
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html-logo" />
 
-### Let’s talk tech (or law)! 👇
+### Let’s talk tech! 👇
 <br>
-
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/gioadv_/" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
