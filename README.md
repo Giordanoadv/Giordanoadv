@@ -1,6 +1,6 @@
 
-<br>
 Hi there, Giordano Bruno here,
+<br>
 ⚖️ Licensed Attorney (OAB) → Transitioning to Tech
 💻 Building a future in code | Python | JavaScript | Web Dev
 
