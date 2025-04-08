@@ -1,6 +1,15 @@
-## Hi there :muscle:
+
 <br>
-Hi there, I'm Giordano Bruno, I have a degree in Law and now I study computer science. I've been working with tech since 2025, I'm from Brazil. Let's Rock :metal:
+Hi there, Giordano Bruno here,
+⚖️ Licensed Attorney (OAB) → Transitioning to Tech
+💻 Building a future in code | Python | JavaScript | Web Dev
+
+Former lawyer leveraging analytical rigor and problem-solving skills to pivot into software development. Passionate about LegalTech, automation, and open-source projects where law meets technology.
+
+🔹 Currently: Learning full-stack development, contributing to projects, and documenting my journey.
+🔹 Goal: Build efficient, accessible tech solutions with a legal background perspective.
+
+Let’s connect! Open to collaborations, mentorship, and innovative ideas. :metal:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
