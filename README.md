@@ -20,3 +20,13 @@ Let’s connect! Open to collaborations, mentorship, and innovative ideas. :meta
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html-logo" />
 
+Let’s talk tech (or law)! 👇
+<br>
+📧 giordanoadv@hotmail.com
+<br>
+📸 https://www.instagram.com/gioadv_/
+<br>
+🔗 https://www.linkedin.com/notifications/?filter=all
+<br>
+
+
