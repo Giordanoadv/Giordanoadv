@@ -1,4 +1,9 @@
-### Hi there, Giordano Bruno here,
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=+Welcome+to+my+profile!" alt="Typing SVG">
+  </a>
+</div>
+
 <br>
 ⚖️ Licensed Attorney (OAB) → Transitioning to Tech
 💻 Building a future in code | Python | JavaScript | Web Dev
@@ -9,6 +14,18 @@ Former lawyer leveraging analytical rigor and problem-solving skills to pivot in
 🔹 Goal: Build efficient, accessible tech solutions with a legal background perspective.
 
 Let’s connect! Open to collaborations, mentorship, and innovative ideas. :metal:
+<br>
+## Traduzindo ⬇️
+<br>
+⚖️ Advogado Licenciado (OAB) → Em Transição para a Tecnologia 💻
+Construindo um futuro em código | Python | JavaScript | Desenvolvimento Web
+
+Ex-advogado utilizando rigor analítico e habilidades de resolução de problemas para migrar para o desenvolvimento de software. Apaixonado por LegalTech, automação e projetos open-source onde o direito encontra a tecnologia.
+
+🔹 Atualmente: Aprendendo desenvolvimento full-stack, contribuindo para projetos e documentando minha jornada.
+🔹 Objetivo: Criar soluções tecnológicas eficientes e acessíveis com a perspectiva da formação jurídica.
+
+Vamos conectar! Aberto a colaborações, mentoria e ideias inovadoras. 🤘
 <br>
 <br>
 ### Tecnology Stacks 
@@ -37,6 +54,15 @@ Let’s connect! Open to collaborations, mentorship, and innovative ideas. :meta
 
 
 [![Giordano's stats](https://github-readme-stats.vercel.app/api?username=Giordanoadv)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giordanoadv)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>  
 
 
 
