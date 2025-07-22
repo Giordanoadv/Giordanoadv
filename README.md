@@ -10,8 +10,8 @@
 
 Former lawyer leveraging analytical rigor and problem-solving skills to pivot into software development. Passionate about LegalTech, automation, and open-source projects where law meets technology.
 
-🔹 Currently: Learning full-stack development, contributing to projects, and documenting my journey.
-🔹 Goal: Build efficient, accessible tech solutions with a legal background perspective.
+🔹 Currently: Learning Java development and studying Computer Science; contributing to projects and documenting my journey.
+
 
 Let’s connect! Open to collaborations, mentorship, and innovative ideas. :metal:
 <br>
@@ -22,8 +22,8 @@ Construindo um futuro em código | Java | Back-End
 
 Ex-advogado utilizando rigor analítico e habilidades de resolução de problemas para migrar para o desenvolvimento de software. Apaixonado por LegalTech, automação e projetos open-source onde o direito encontra a tecnologia.
 
-🔹 Atualmente: Aprendendo desenvolvimento full-stack, contribuindo para projetos e documentando minha jornada.
-🔹 Objetivo: Criar soluções tecnológicas eficientes e acessíveis com a perspectiva da formação jurídica.
+🔹 Atualmente: Aprendendo desenvolvimento java e cursando Ciência da Computtação; contribuindo para projetos e documentando minha jornada.
+
 
 Vamos conectar! Aberto a colaborações, mentoria e ideias inovadoras. 🤘
 <br>
