@@ -6,7 +6,7 @@
 
 <br>
 ⚖️ Licensed Attorney (OAB) → Transitioning to Tech
-💻 Building a future in code | Python | JavaScript | Web Dev
+💻 Building a future in code | Java | Back-End
 
 Former lawyer leveraging analytical rigor and problem-solving skills to pivot into software development. Passionate about LegalTech, automation, and open-source projects where law meets technology.
 
@@ -18,7 +18,7 @@ Let’s connect! Open to collaborations, mentorship, and innovative ideas. :meta
 ## Traduzindo ⬇️
 <br>
 ⚖️ Advogado Licenciado (OAB) → Em Transição para a Tecnologia 💻
-Construindo um futuro em código | Python | JavaScript | Desenvolvimento Web
+Construindo um futuro em código | Java | Back-End
 
 Ex-advogado utilizando rigor analítico e habilidades de resolução de problemas para migrar para o desenvolvimento de software. Apaixonado por LegalTech, automação e projetos open-source onde o direito encontra a tecnologia.
 
