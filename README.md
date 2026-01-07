@@ -22,7 +22,7 @@ Construindo um futuro em código | Java | Back-End
 
 Rigor analítico e habilidades de resolução de problemas para migrar para o desenvolvimento de software. Apaixonado por LegalTech, automação e projetos open-source onde o direito encontra a tecnologia.
 
-🔹 Atualmente:  cursando Ciência da Computtação; contribuindo para projetos e documentando minha jornada.
+🔹 Atualmente:  cursando Ciência da Computação; contribuindo para projetos e documentando minha jornada.
 
 
 Vamos conectar! Aberto a colaborações, mentoria e ideias inovadoras. 🤘
